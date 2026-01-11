@@ -1,1 +1,3 @@
 # daily-bible
+
+The goal with this application is to create some sort of daily routine with bible study whether through phone notifications in reference to scripture or email, or some sort of persistent GUI to be open upon startup of personal PC. Maybe not the most practical way to go about it, but it's more hands on with various API for me to get practice with and its something I can use that I made.
